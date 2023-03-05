@@ -2,7 +2,7 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
-        Pisica a = new Pisica();
+        Animal a=new Animal();
         a.mananca();
     }
 }
